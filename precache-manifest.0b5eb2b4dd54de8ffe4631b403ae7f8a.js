@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/blocking-translator/static/js/runtime~main.67d29328.js"
   },
   {
-    "revision": "77824d8d8d598ea68664",
-    "url": "/blocking-translator/static/js/main.77824d8d.chunk.js"
+    "revision": "77474c67d31293268efa",
+    "url": "/blocking-translator/static/js/main.77474c67.chunk.js"
   },
   {
-    "revision": "5bf9b2cda7c63b962686",
-    "url": "/blocking-translator/static/js/2.5bf9b2cd.chunk.js"
+    "revision": "4bd9717971ddaa24a586",
+    "url": "/blocking-translator/static/js/2.4bd97179.chunk.js"
   },
   {
-    "revision": "77824d8d8d598ea68664",
+    "revision": "77474c67d31293268efa",
     "url": "/blocking-translator/static/css/main.6717b5ee.chunk.css"
   },
   {
-    "revision": "0dbd1e39f86879aa16cbf32f0817d7b1",
+    "revision": "a0ecf0827b9ebd7902ac538f25bc4e08",
     "url": "/blocking-translator/index.html"
   }
 ];
